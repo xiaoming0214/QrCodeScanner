@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="core-3.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/core-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jxl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
